@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-67" value="/api/cart" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="290" y="439" width="70" height="23" as="geometry" />
+          <mxGeometry x="290" y="437.5" width="70" height="23" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AWPtB4choz4kUmIrRXj7-107" target="uhQogdTh9zE1QaHXRQoS-69">
           <mxGeometry relative="1" as="geometry">
@@ -428,7 +428,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="969" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="971" />
+              <mxPoint x="480" y="971" />
             </Array>
             <mxPoint x="480" y="628" as="sourcePoint" />
           </mxGeometry>
