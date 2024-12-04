@@ -238,11 +238,11 @@
         <mxCell id="uhQogdTh9zE1QaHXRQoS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.882;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWPtB4choz4kUmIrRXj7-38" target="uhQogdTh9zE1QaHXRQoS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhQogdTh9zE1QaHXRQoS-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uhQogdTh9zE1QaHXRQoS-15" target="uhQogdTh9zE1QaHXRQoS-186">
+        <mxCell id="uhQogdTh9zE1QaHXRQoS-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhQogdTh9zE1QaHXRQoS-15" target="uhQogdTh9zE1QaHXRQoS-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-15" value="Log Stream" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Log_Streaming.svg;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="893.27" width="40.91" height="48.95" as="geometry" />
+          <mxGeometry x="-960" y="888.27" width="40.91" height="48.95" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhQogdTh9zE1QaHXRQoS-122" target="uhQogdTh9zE1QaHXRQoS-62">
           <mxGeometry relative="1" as="geometry">
@@ -434,10 +434,13 @@
           <mxGeometry x="190" y="60.25" width="81.5" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-186" value="Observability Solutions" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="750" width="460" height="335.5" as="geometry" />
+          <mxGeometry x="-1530" y="750" width="460" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-59" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Prometheus&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.prometheus;" vertex="1" parent="uhQogdTh9zE1QaHXRQoS-186">
           <mxGeometry x="368.0999999999999" y="37.76999999999998" width="51.9" height="51.9" as="geometry" />
+        </mxCell>
+        <mxCell id="uhQogdTh9zE1QaHXRQoS-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uhQogdTh9zE1QaHXRQoS-186" source="uhQogdTh9zE1QaHXRQoS-189" target="uhQogdTh9zE1QaHXRQoS-213">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-189" value="Grafana" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="uhQogdTh9zE1QaHXRQoS-186">
           <mxGeometry x="220" y="36.870000000000005" width="68" height="52.800000000000004" as="geometry" />
@@ -461,6 +464,9 @@
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-196" value="Kibana" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cloudwatch_logs;" vertex="1" parent="uhQogdTh9zE1QaHXRQoS-186">
           <mxGeometry x="80" y="134.25" width="76.47" height="56.87" as="geometry" />
+        </mxCell>
+        <mxCell id="uhQogdTh9zE1QaHXRQoS-213" value="OpsGenie" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.systems_manager_opscenter;" vertex="1" parent="uhQogdTh9zE1QaHXRQoS-186">
+          <mxGeometry x="78.47" y="24.720000000000027" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AWPtB4choz4kUmIrRXj7-33" target="uhQogdTh9zE1QaHXRQoS-147">
           <mxGeometry relative="1" as="geometry" />
