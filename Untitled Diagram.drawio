@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="omY-LED53eiQ9SOgV6VI">
-    <mxGraphModel dx="6978" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5502" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -831,7 +831,7 @@
           <mxGeometry x="410" y="1301.6499999999999" width="651" height="144" as="geometry" />
         </mxCell>
         <mxCell id="qGKLQxjXFMU1jJOeqtGD-79" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;As comunicações internas das API&#39;s com o API Gateway ao meu entender, em sua maioria podem ser feitas usando o protocolo HTTP sem TLS, visto que já estão em uma camada de rede protegida,&amp;nbsp;&lt;br&gt;Ao fazer isso, se ganha muito em tempo de resposta, sacrificando uma camada extra de segurança.&lt;br&gt;É um caso que cabe uma análise mais detalhada de cenário, provavelmente terão API&#39;s que necessitem TLS de ponta a ponta.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="63" y="1440" width="723.06" height="136.25" as="geometry" />
+          <mxGeometry x="73.88" y="1445.65" width="723.06" height="136.25" as="geometry" />
         </mxCell>
         <mxCell id="qGKLQxjXFMU1jJOeqtGD-81" value="Aqui, por ser ambiente já em uma camada interna, pode ser utilizado o protocolo HTTP na maioria das chamadas, para ganho de desempenho." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="726.5" width="275" height="64.29" as="geometry" />
