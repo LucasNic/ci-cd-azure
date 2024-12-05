@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="omY-LED53eiQ9SOgV6VI">
-    <mxGraphModel dx="6418" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4074" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,9 +107,6 @@
           <mxGeometry x="-1180" y="1276.25" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uhQogdTh9zE1QaHXRQoS-404" target="uhQogdTh9zE1QaHXRQoS-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uhQogdTh9zE1QaHXRQoS-466" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhQogdTh9zE1QaHXRQoS-261" target="uhQogdTh9zE1QaHXRQoS-429">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-261" value="" style="container=1;collapsible=0;expand=0;recursiveResize=0;html=1;whiteSpace=wrap;strokeColor=#1192E8;fillColor=none;strokeWidth=1" vertex="1" parent="1">
@@ -231,9 +228,6 @@
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-288" value="Checkout&lt;br&gt;Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uhQogdTh9zE1QaHXRQoS-279">
           <mxGeometry x="290" y="40" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uhQogdTh9zE1QaHXRQoS-467" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhQogdTh9zE1QaHXRQoS-289" target="uhQogdTh9zE1QaHXRQoS-460">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uhQogdTh9zE1QaHXRQoS-289" value="" style="container=1;collapsible=0;expand=0;recursiveResize=0;html=1;whiteSpace=wrap;strokeColor=#1192E8;fillColor=none;strokeWidth=1" vertex="1" parent="1">
           <mxGeometry x="-1000" y="670" width="464" height="170" as="geometry" />
